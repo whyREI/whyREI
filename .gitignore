@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# PyBuilder
+target/
+.idea/
+
+# VS Code
+.vscode
+
+*.DS_Store
